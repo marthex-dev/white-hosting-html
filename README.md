@@ -23,4 +23,4 @@ Bu proje, daha önce ücretsiz olarak paylaştığım ve web hosting satışlar�
 - **GitHub üzerinden İndirme:**  
   Proje dosyalarını GitHub reposundan indirebilir veya aşağıdaki komutu kullanarak yerel makinenize klonlayabilirsiniz:
   ```bash
-  git clone https://github.com/kullaniciadi/proje-adi.git
+  git clone https://github.com/marthex-dev/white-hosting-html.git
