@@ -4,6 +4,7 @@ Merhaba,
 
 Bu proje, daha önce ücretsiz olarak paylaştığım ve web hosting satışlarınızı desteklemek için tasarlanmış bir HTML temadır. Ürünlerinizi ve hizmetlerinizi tanıtmak, müşterilerinize profesyonel bir görünüm sunmak için ideal bir başlangıç noktasıdır.
 
+**Daha fazlasını görmek için internet sitemi ( https://marthex.dev/ ) ziyaret etmeyi unutma.**
 ---
 
 ## Özellikler
@@ -24,3 +25,6 @@ Bu proje, daha önce ücretsiz olarak paylaştığım ve web hosting satışlar�
   Proje dosyalarını GitHub reposundan indirebilir veya aşağıdaki komutu kullanarak yerel makinenize klonlayabilirsiniz:
   ```bash
   git clone https://github.com/marthex-dev/white-hosting-html.git
+
+  ## Görüntü 
+![Alternatif Metin](white-hosting.png "marthex.dev")
